@@ -8,3 +8,4 @@ A responsive Spotify Clone builts using  HTML and CSS. This project recreates th
 
 ✨ Clean and minimal UI styling inspired by the official Spotify app
 
+🧱 Structured and maintainable HTML & CSS codebase
