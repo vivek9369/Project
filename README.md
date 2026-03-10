@@ -1,6 +1,5 @@
 🎵 Spotify Clone | HTML & CSS Project
 A responsive Spotify Clone builts using  HTML and CSS. This project recreates the core user interface of Spotify, focusing on layout, structure, and visual design—without any JavaScript.
-
 📌 Features
 🎧 Recreated Spotify-like navbar, sidebar playlists, and media controls
 
